@@ -6,6 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		int variable = 10;
+
+		System.out.println(variable);
 	}
 
 }
