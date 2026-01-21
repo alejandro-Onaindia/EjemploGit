@@ -9,7 +9,7 @@ public class Main {
 		String palabra = "hola";
 
 		System.out.println(variable);
-		System.out.println(palabra + "tonto");
+		System.out.println(palabra + "tonto+");
 	}
 
 }
